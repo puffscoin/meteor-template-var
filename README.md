@@ -7,7 +7,7 @@ Read [this blog post](http://frozeman.de/blog/2015/10/meteor-blaze-templates-don
 Installation
 ============
 
-    $ meteor add frozeman:template-var
+    $ meteor add puffscoin:template-var
 
 Usage
 =====
